@@ -17,7 +17,7 @@ github_username:  AokiCE
 project_repository: testblog
 disqus_shortname: 
 g-analytics: 
-altmetric: false
+altmetric: true
 
 # Build settings
 gems: [jekyll-paginate]
