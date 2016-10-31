@@ -9,7 +9,7 @@ url: "https://aokice.github.io"
 # Secondary Parameters
 baseurl: "/testblog"
 header-img: img/home-bg.jpg
-headercolor: "#66ffcc"
+headercolor: "#66ffcc" # Header text color
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
