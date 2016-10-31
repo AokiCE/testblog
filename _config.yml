@@ -1,6 +1,6 @@
 # Site settings
 title: Test Project Pages
-description: "An Integrated Scientific Blogging Template"
+description: "Testing Template for Future usage"
 url: "https://aokice.github.io"
 
 
@@ -9,7 +9,7 @@ url: "https://aokice.github.io"
 # Secondary Parameters
 baseurl: "/testblog"
 header-img: img/home-bg.jpg
-headercolor: "#FFFFFF"
+headercolor: "#66ffcc"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
@@ -45,6 +45,7 @@ prose:
   ispp: true
   media: 'img'
   metadata:
+
     projects:
       - name: "title"
         field:
@@ -61,6 +62,7 @@ prose:
           element: "text"
           label: "Project"
           value: ""           
+   
     _posts:
       - name: "subtitle"
         field:
